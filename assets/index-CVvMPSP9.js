@@ -27667,7 +27667,7 @@ class mr extends Gt {
                     if (o.status === 200) {
                         this._requestLicenseFailureCount = 0;
                         let l = o.response;
-                        this.log(`License received ${linstanceof ArrayBuffer ? l.byteLength : l}`);
+                        this.log(`License received ${l instanceof ArrayBuffer ? l.byteLength : l}`);
                         const c = this.config.licenseResponseCallback;
                         if (c)
                             try {
