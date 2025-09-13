@@ -38070,7 +38070,7 @@ const Od = ({src: s, title: e, onClose: t}) => {
             }
         } catch ($) {
             console.error(`❌ Error fetching ${_}:`, $),
-            _ === "lectures" && d(`Failed to fetch ${_}: ${$instanceof Error ? $.message : "Unknown error"}`)
+            _ === "lectures" && d(`Failed to fetch ${_}: ${$ instanceof Error ? $.message : "Unknown error"}`)
         }
     }
       , I = _ => _.replace(/\[rolexcoder\.xyz\]/gi, "").replace(/\[.*?\]/g, "").replace(/\(.*?\)/g, "").trim()
