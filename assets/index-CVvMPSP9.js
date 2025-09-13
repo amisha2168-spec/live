@@ -39366,7 +39366,7 @@ const Od = ({src: s, title: e, onClose: t}) => {
             E(`Download completed! ${K.length} segments downloaded.`, "success")
         } catch (b) {
             b instanceof Error && b.name === "AbortError" || r ? E("Download cancelled by user", "info") : (console.error("Download error:", b),
-            E(`Download failed: ${binstanceof Error ? b.message : "Unknown error"}. user canceled.`, "error"))
+            E(`Download failed: ${b instanceof Error ? b.message : "Unknown error"}. user canceled.`, "error"))
         } finally {
             n(!1),
             f(0),
