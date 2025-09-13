@@ -11545,12 +11545,12 @@ const Mn = new DS
                         to: "/",
                         className: "flex items-center space-x-2",
                         children: [g.jsx("img", {
-                            src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                            alt: "EduSpark Logo",
+                            src: "https://i.imgur.com/fTOETxW.png",
+                            alt: "Smarter Logo",
                             className: "h-8 w-8 rounded-full object-cover glow-red"
                         }), g.jsx("span", {
                             className: "text-2xl font-bold text-gradient neon-text",
-                            children: "EduSpark"
+                            children: "Smarter"
                         })]
                     })
                 }), g.jsxs("div", {
@@ -11673,8 +11673,8 @@ const Mn = new DS
                         children: g.jsx("div", {
                             className: "p-0 bg-red-600 rounded-full glow-red pulse-red",
                             children: g.jsx("img", {
-                                src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                                alt: "EduSpark Logo",
+                                src: "https://i.imgur.com/fTOETxW.png",
+                                alt: "Smarter Logo",
                                 className: "h-12 w-12 md:h-16 md:w-16 rounded-full object-cover"
                             })
                         })
@@ -11682,7 +11682,7 @@ const Mn = new DS
                         className: "text-3xl md:text-4xl lg:text-6xl font-bold text-white mb-6",
                         children: ["Welcome to ", g.jsx("span", {
                             className: "text-gradient neon-text",
-                            children: "EduSparK"
+                            children: "Smarter"
                         })]
                     }), g.jsx("p", {
                         className: "text-base md:text-xl lg:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto",
@@ -11777,7 +11777,7 @@ const Mn = new DS
                     children: "Ready to Boost Your Grades?"
                 }), g.jsx("p", {
                     className: "text-base md:text-xl text-gray-300 mb-8",
-                    children: "Join thousands of students who have improved their performance with EduSpark"
+                    children: "Join thousands of students who have improved their performance with Smarter"
                 }), g.jsxs("div", {
                     className: "flex flex-col sm:flex-row gap-4 justify-center",
                     children: [g.jsx(Ft, {
@@ -12540,8 +12540,8 @@ const Mn = new DS
                         }), g.jsxs("div", {
                             className: "flex items-center gap-2",
                             children: [g.jsx("img", {
-                                src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                                alt: "EduSpark Logo",
+                                src: "https://i.imgur.com/fTOETxW.png",
+                                alt: "Smarter Logo",
                                 className: "h-5 w-5 rounded-full object-cover"
                             }), g.jsx("span", {
                                 children: "Expert Content"
@@ -38915,8 +38915,8 @@ const Od = ({src: s, title: e, onClose: t}) => {
                     children: [g.jsx("div", {
                         className: "text-gray-400 mb-4",
                         children: g.jsx("img", {
-                            src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                            alt: "EduSpark Logo",
+                            src: "https://i.imgur.com/fTOETxW.png",
+                            alt: "Smarter Logo",
                             className: "h-16 w-16 rounded-full object-cover mx-auto opacity-40"
                         })
                     }), g.jsx("h3", {
@@ -39246,8 +39246,8 @@ const Od = ({src: s, title: e, onClose: t}) => {
                     children: [g.jsx("div", {
                         className: "text-gray-400 mb-4",
                         children: g.jsx("img", {
-                            src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                            alt: "EduSpark Logo",
+                            src: "https://i.imgur.com/fTOETxW.png",
+                            alt: "Smarter Logo",
                             className: "h-16 w-16 rounded-full object-cover mx-auto opacity-40"
                         })
                     }), g.jsx("h3", {
@@ -39357,7 +39357,7 @@ const Od = ({src: s, title: e, onClose: t}) => {
               , G = URL.createObjectURL(W)
               , V = document.createElement("a");
             V.href = G,
-            V.download = "eduspark_video.ts",
+            V.download = "smarter_video.ts",
             V.style.display = "none",
             document.body.appendChild(V),
             V.click(),
@@ -39414,17 +39414,17 @@ const Od = ({src: s, title: e, onClose: t}) => {
                     children: g.jsx("div", {
                         className: "p-0 bg-red-600 rounded-full glow-red pulse-red",
                         children: g.jsx("img", {
-                            src: "https://i.ibb.co/23bwFnVF/6179079224833460665-1.jpg",
-                            alt: "EduSpark Logo",
+                            src: "https://i.imgur.com/fTOETxW.png",
+                            alt: "Smarter Logo",
                             className: "h-16 w-16 md:h-20 md:w-20 rounded-full object-cover hover:rotate-12 transition-transform duration-500"
                         })
                     })
                 }), g.jsx("h1", {
                     className: "text-3xl md:text-4xl lg:text-5xl font-bold text-gradient mb-4 neon-text",
-                    children: "EduSpark M3U8 Downloader"
+                    children: "Smarter M3U8 Downloader"
                 }), g.jsx("p", {
                     className: "text-base md:text-lg text-gray-300 max-w-2xl mx-auto",
-                    children: "Play & download M3U8 videos with EduSpark"
+                    children: "Play & download M3U8 videos with Smarter"
                 })]
             }), g.jsxs("div", {
                 className: "card-futuristic p-6 md:p-8 relative overflow-hidden",
@@ -39558,7 +39558,7 @@ const Od = ({src: s, title: e, onClose: t}) => {
                 className: "text-center mt-8 md:mt-12",
                 children: g.jsx("p", {
                     className: "text-sm md:text-base text-red-400 font-medium",
-                    children: "© 2025 EduSpark - Advanced M3U8 Video Downloader"
+                    children: "© 2025 Smarter - Advanced M3U8 Video Downloader"
                 })
             })]
         })
